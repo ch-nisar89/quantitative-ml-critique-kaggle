@@ -1,5 +1,5 @@
 
-# 🧠 ML Notebook Critiques 
+# 🧠 ML Notebooks Critiques 
 
 This repository contains a structured academic critique of **three Kaggle notebooks**, completed as part of MSc coursework at the University of Strathclyde. The task required deconstructing real-world ML notebooks to identify where **quantitative methods** (maths/statistics) were applied or could have been applied.
 
